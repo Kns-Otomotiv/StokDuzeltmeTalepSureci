@@ -1,2 +1,5 @@
 # StokDuzeltmeTalepSureci
 Stok Düzeltme Talep Süreci
+Stok Düzeltme Talep Süreci, stok verilerindeki hataların tespit edilmesi ve düzeltilmesi için dijital ortamda başlatılan, ERP sistemi ile entegre çalışan bir süreçtir. Bu süreç, stok hata kodları ve sorumlu bölüm bilgileri doğrultusunda doğru müdahalenin yapılmasını sağlar ve hataların kaydedilmesiyle ilgili raporlamayı mümkün kılar.
+
+✅ Stok Hatalarını Tespit ve Düzeltme: ERP sistemindeki stok hataları, sistemsel olarak tespit edilir ve gerekli düzeltmeler yapılır.✅ Veri Doğruluğunu Sağlamak: Stok verilerinin doğru ve güncel olması sağlanarak, üretim ve diğer departmanların doğru verilere dayalı karar alması mümkün hale gelir.✅ Hızlı ve Etkili Müdahale: Hata tespit edildiğinde, ilgili bölüm sorumluları hızla devreye girer, sorunun çözümü için gerekli adımlar atılır.✅ Raporlama ve İzleme: Düzeltme işlemleri raporlanabilir ve izlenebilir, böylece hangi hata kodlarının sık tekrarlandığı ve hangi bölümlerin daha fazla düzeltme talebi oluşturduğu analiz edilebilir.
